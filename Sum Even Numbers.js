@@ -9,6 +9,5 @@ function newSum(arr) {
         }
     }
     console.log(sum);
-
 }
 newSum(['2', '4', '6', '8', '10']);
